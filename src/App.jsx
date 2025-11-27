@@ -47,7 +47,7 @@ function App() {
       ease: "easeInOut",
     }}
   >
-    ⬆
+    ☝️
   </motion.span>
 </a>
     </div>
