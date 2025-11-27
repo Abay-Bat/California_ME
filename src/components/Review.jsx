@@ -62,10 +62,10 @@ export default function ReviewCarousel() {
 
         {/* Arrows */}
         <button className="arrow left-arrow" onClick={handlePrev}>
-          ⬅
+          <
         </button>
         <button className="arrow right-arrow" onClick={handleNext}>
-          ➡
+          >
         </button>
       </div>
     </section>
