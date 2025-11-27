@@ -30,7 +30,7 @@ export const Projects = () => {
         whileInView="animate"
         viewport={{ once: true }}
       >
-        My Projects
+        Our Offers
       </motion.h2>
       <motion.div
         className="project-grid"
